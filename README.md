@@ -1,6 +1,6 @@
 # Assessment_week1
 ## Setup Steps
-1. Install Python 3.13.
+1. Install Python 3.13.9.
 2. Install required packages.
 3. Open Jupyter Notebook.
 4. Run employee_analysis.ipynb.
