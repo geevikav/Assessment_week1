@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # \# Week 1 Employee Analysis - Feature
 
 # Setup Steps
 
 1. Install Python 3.13.
+=======
+# \# Week 1 Employee Analysis - Main
+
+## Setup Steps
+
+1. Install Python 3.13.9.
+>>>>>>> origin/main
 2. Install required packages.
 3. Open Jupyter Notebook.
 4. Run employee\_analysis.ipynb.
